@@ -1,0 +1,11 @@
+main: io.github.p250.Main
+version: 1.0
+api-version: 1.15
+name: WolfFarming
+depend: [WorldGuard]
+
+commands:
+  wolffarming:
+    usage: /wf reload
+    description: Reloads wolffarming config
+    aliases: [wf]
